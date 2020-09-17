@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Eugenio Valderrama Escallón
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Cornell University
+  url: "https://blogs.cornell.edu/specht/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Postdoctoral researcher at Specht Lab., School for Integrative Plant Sciences, Section of Plant Biology and the L.H. Bailey Hortorium, Cornell University.
+
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Phylogenomics
+- Zingiberales
+- Neotropical
+- Biogeography
+- Taxonomy
+- <i class="fab fa-r-project"></i>&nbsp;programming
+- Evolutionary Biology applied to human behaviour
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Evolutionary Biology
+    institution: University of Edinburgh (Edinburgh, UK)
+    year: 2016
+  - course: MSc in Biological Sciences
+    institution: Universidad de LOs Andes (Bogota, Colombia)
+    year: 2010
+  - course: BA in Biology
+    institution: Universidad de LOs Andes (Bogota, Colombia)
     year: 2008
 
 # Social/Academic Networking
@@ -42,18 +48,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=1X-h1-YAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6320-7792
+- icon: researchgate
+  icon_pack: ai
+  link: hhttps://www.researchgate.net/profile/Eugenio_Valderrama
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eugenio was an Associate Professor at the Faculty of Psychology and the Biology Program at Universidad El Bosque, and a researcher at the [Human Behaviour Lab (LACH)](https://sites.google.com/unbosque.edu.co/lach-es) between 2016 and 2018. He is currently a postdoctoral associate in the Specht Lab studying the evolution of pollination syndromes of the Neotropical *Costus* L. species in a project encompassing taxonomy, phylogenomics and comparative methods. Also, he is interested in the evolutionary history and taxonomy of *Renealmia* L.f. genus in the Neotropics and particularly in his native Colombia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is interested in the processes that led to the high species richness in the Neotropical region, particularly in Colombia and the Northern Andes region. Addressing these processes integrating phylogenetics, comparative methods, phylogeography, systematics and plant taxonomy has been the focus of his research. The ginger family and its relatives are his study group and he is also interested in teaching and public outreach activities.
